@@ -29,7 +29,7 @@ class SignUp_Page(Tk):      #       Class of Sign up page.
         self.maxsize(self.width, self.height)
         self.minsize(self.width, self.height)
         self.title("Sign Up-Chat Room")
-        
+        self.config(bg="grey")
 
 
 if __name__ == '__main__':
