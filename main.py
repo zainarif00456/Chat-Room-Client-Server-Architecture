@@ -1,4 +1,3 @@
-#       In this program, we will write code for our project.
 """
         Project Title:  Chat Room Using Client-Server Architecture
         Team Members:
